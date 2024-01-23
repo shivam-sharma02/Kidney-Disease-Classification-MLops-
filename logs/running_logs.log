@@ -1,2 +1,18 @@
 [2024-01-22 18:41:00,167: INFO: main: welcome to the classifier:]
 [2024-01-22 18:42:17,913: INFO: main: welcome to the classifier:]
+[2024-01-23 15:06:49,363: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2024-01-23 15:06:49,378: INFO: common: yaml file: params.yaml loaded successfully:]
+[2024-01-23 15:06:49,380: INFO: common: created directory at: artifacts:]
+[2024-01-23 15:06:49,381: INFO: common: created directory at: artifacts/data_ingestion:]
+[2024-01-23 15:06:49,383: INFO: 1069538903: Downloading dataset from https://drive.google.com/file/d/1afhfOfSlE7su4N2BZyzUafQxatSmCYQf/view?usp=sharing into the file artifacts/data_ingestion/data.zip:]
+[2024-01-23 15:08:00,024: INFO: 1069538903: Downloaded data from https://drive.google.com/file/d/1afhfOfSlE7su4N2BZyzUafQxatSmCYQf/view?usp=sharing into file artifacts/data_ingestion/data.zip:]
+[2024-01-23 15:33:33,284: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<:]
+[2024-01-23 15:33:33,284: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2024-01-23 15:33:33,284: INFO: common: yaml file: params.yaml loaded successfully:]
+[2024-01-23 15:33:33,284: INFO: common: created directory at: artifacts:]
+[2024-01-23 15:33:33,284: INFO: common: created directory at: artifacts/data_ingestion:]
+[2024-01-23 15:33:33,289: INFO: data_ingestion: Downloading dataset from https://drive.google.com/file/d/1afhfOfSlE7su4N2BZyzUafQxatSmCYQf/view?usp=sharing into the file artifacts/data_ingestion/data.zip:]
+[2024-01-23 15:33:56,399: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1afhfOfSlE7su4N2BZyzUafQxatSmCYQf/view?usp=sharing into file artifacts/data_ingestion/data.zip:]
+[2024-01-23 15:33:57,005: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x:]
